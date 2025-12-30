@@ -1,3 +1,5 @@
+/Users/bryan/BGit/act3/WebApp/comfy-frontend/Architecture.md
+
 # ComfyUI Frontend - Architecture Documentation
 
 ## 1. Executive Summary
